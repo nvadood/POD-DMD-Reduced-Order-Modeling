@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 # file name of the CSV format data
 
 
-data_file = 'C:/Users/jalal/Narges-module3/cyldata6h.csv'
+data_file = 'C:/Users/Narges-module3/cyldata6h.csv'
 
 # load the data
 U = np.loadtxt(data_file, delimiter=",")
